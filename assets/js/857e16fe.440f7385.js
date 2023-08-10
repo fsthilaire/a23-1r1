@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1_r_1=self.webpackChunk_1_r_1||[]).push([[6809],{3924:e=>{e.exports=JSON.parse('{"title":"Proc\xe9dures","slug":"/category/procedures","permalink":"/a23-1r1/category/procedures","navigation":{"previous":{"title":"Pr\xe9sentation du cours","permalink":"/a23-1r1/"},"next":{"title":"Windows","permalink":"/a23-1r1/category/windows"}}}')}}]);
